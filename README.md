@@ -2,12 +2,12 @@
 
 ## Operations:
 1. Basic Arithmetic
-- Addition(+)
-- subtraction(-)
-- multiplication(x, lowercase “X”)
-- division(/)
+  - Addition(+)
+  - subtraction(-)
+  - multiplication(x, lowercase “X”)
+  - division(/)
 2. Exponentiation
-- Base will be a big int and exponent will be < 263
+  - Base will be a big int and exponent will be < 263
 3. GCD of two numbers
 4. Factorial
 
